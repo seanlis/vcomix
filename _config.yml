@@ -1,5 +1,6 @@
 theme: jekyll-theme-architect
 description: Comix viewer for VR.
 show_downloads: true
+google_analytics: UA-125405833-1
 github:
   zip_url: https://github.com/seanlis/vcomix/releases/download/v0.1.0/vcomix-win64.zip
